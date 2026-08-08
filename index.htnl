@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Nawal Husein Abdalla | CV Portfolio</title>
+
+<style>
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:Arial, sans-serif;
+}
+
+body{
+background:#eef2f7;
+color:#333;
+}
+
+header{
+background:linear-gradient(135deg,#0d6efd,#003f88);
+color:white;
+padding:50px 20px;
+text-align:center;
+}
+
+header h1{
+font-size:40px;
+}
+
+header p{
+margin-top:10px;
+font-size:18px;
+}
+
+.container{
+max-width:900px;
+margin:30px auto;
+padding:20px;
+}
+
+.card{
+background:white;
+padding:25px;
+margin-bottom:20px;
+border-radius:15px;
+box-shadow:0 5px 15px rgba(0,0,0,.1);
+}
+
+h2{
+color:#0d6efd;
+margin-bottom:15px;
+border-bottom:2px solid #0d6efd;
+padding-bottom:5px;
+}
+
+ul{
+padding-left:20px;
+line-height:1.8;
+}
+
+.info{
+text-align:center;
+}
+
+footer{
+background:#003f88;
+color:white;
+text-align:center;
+padding:20px;
+}
+
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<header>
+
+<h1>Nawal Husein Abdalla</h1>
+
+<p>Computer Science Student | Future Software Developer</p>
+
+</header>
+
+
+<div class="container">
+
+
+<div class="card">
+
+<h2>Personal Information</h2>
+
+<p><b>Phone:</b> 6623174</p>
+
+<p><b>Location:</b> Somalia</p>
+
+<p><b>Email:</b> youremail@example.com</p>
+
+</div>
+
+
+
+<div class="card">
+
+<h2>Career Objective</h2>
+
+<p>
+A motivated and hardworking university student with a strong interest in Computer Science, Programming, and Web Development. I am eager to learn new technologies, improve my technical skills, and contribute effectively to any team or organization.
+</p>
+
+</div>
+
+
+
+<div class="card">
+
+<h2>Education</h2>
+
+<ul>
+
+<li>Puntland State University</li>
+
+<li>Faculty: Computer Science / Information Technology</li>
+
+<li>Year One</li>
+
+<li>Semester Three</li>
+
+</ul>
+
+</div>
+
+
+
+<div class="card">
+
+<h2>Skills</h2>
+
+<ul>
+
+<li>Python Programming</li>
+
+<li>C++ Programming</li>
+
+<li>HTML & CSS (Basic)</li>
+
+<li>Git & GitHub</li>
+
+<li>Microsoft Word</li>
+
+<li>Problem Solving</li>
+
+<li>Teamwork</li>
+
+<li>Communication Skills</li>
+
+</ul>
+
+</div>
+
+
+
+<div class="card">
+
+<h2>Projects</h2>
+
+<ul>
+
+<li>
+<b>Student Management System</b><br>
+Developed a simple student management program using C++.
+</li>
+
+<br>
+
+<li>
+<b>Python Practice Programs</b><br>
+Created programs using calculations, conditions, loops, and data types.
+</li>
+
+</ul>
+
+</div>
+
+
+
+<div class="card">
+
+<h2>Languages</h2>
+
+<ul>
+
+<li>Somali — Native</li>
+
+<li>English — Intermediate</li>
+
+</ul>
+
+</div>
+
+
+
+<div class="card">
+
+<h2>References</h2>
+
+<p>Available upon request.</p>
+
+</div>
+
+
+
+</div>
+
+
+<footer>
+
+© 2026 Nawal Husein Abdalla | Portfolio CV
+
+</footer>
+
+
+</body>
+
+</html>
